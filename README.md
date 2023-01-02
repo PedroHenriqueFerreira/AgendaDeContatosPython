@@ -13,7 +13,7 @@ Primeiramente é necessário ter o `python` em sua máquina.
 $ python -m venv venv
 ```
 
-## Instalando as dependências
+## Instalação das dependências
 ```
 $ pip install -r requirements.txt
 ```
