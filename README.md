@@ -1,5 +1,5 @@
 ## Agenda de contatos em Python
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge)
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 ## Descrição do repositório
 Este repositório contém uma agenda simples em `python` que permite o cadastro de contatos, com nome, telefone, e-mail e etc.
